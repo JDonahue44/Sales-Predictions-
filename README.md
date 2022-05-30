@@ -1,2 +1,2 @@
-# Sales-Predictions-
+# Sales-Predictions
 Sales Predictions
